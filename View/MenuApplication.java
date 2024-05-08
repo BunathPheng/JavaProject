@@ -62,6 +62,7 @@ public class MenuApplication {
 
                 case 2:
                     exit(0);
+                case 3:
             }
             }catch (Exception e)
             {
